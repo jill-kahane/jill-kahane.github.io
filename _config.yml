@@ -12,7 +12,7 @@ email: jk@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Who knows what will be posted on this site... only time will tell. Likely topics: education,
   data, dinosaurs, bagels, song ideas, best spots in Cambridge and Chicago.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-cayman-theme"
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jillfish822
 github_username:  jill-kahane
